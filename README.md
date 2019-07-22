@@ -19,7 +19,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 ## Description
 
 You are going to create a Lambda Newspaper. Your job is going to be to create the components that make up the newspaper's home page. You will do this at first with static data, then you will request data from a server to create dynamic components.
-
+s
 In meeting the minimum viable product (MVP) specifications listed below, you should have a console full of correct responses to the problems given.
 
 ## Self-Study Questions
